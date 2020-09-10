@@ -31,7 +31,7 @@ void List::print_menu(){
 }
 
 void List::add_item(){
-    cout << "\n\n";
+    cout << "\n\n\n";
     cout << "*** Add Item ***\n";
     cout << "Type in an item and press enter: ";
 
